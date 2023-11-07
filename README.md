@@ -23,3 +23,21 @@ The user interface will be minimalistic, with many options for changing color th
 # Competitive Element
 
 The competitive element is within course creation and typing speeds. In terms of course creation, each user is competing to create a course that receives the most likes and plays. In terms of typing speeds, users are competing to have the highest typing average speed or typing speed on a certain course.
+
+# Engagement and Addictiveness
+
+The game will be addicting in the same way MonkeyType is -- responsive feedback and chasing high scores. Users will constantly wanting to improve their typing speeds, in which the skill cap is extremely high. This means there is a lot of room for improvement for everyone, so everyone will work to increase their scores. The satisfaction of typing is also addictive in its own sense.
+
+# Scalability and Expansion
+
+This project can scale into a typing hub that combines all of the best parts of all typing applications. In terms of expansion, we can expand by adding new game modes. For example, there can be a level progression like CandyCrush in which users can progress through a path. This creates more opportunity for competition and level creation. It can also be expanded upon by implementing AI into the course creation, in which a user can type something like "create a course about the mitochondria", and the artificial intelligence will auto-generate a paragraph for the course. 
+
+# Accessibility and Inclusivity
+
+Design: The interface should be easy to navigate for users of all ages and abilities. Larger clickable areas, clear labeling, and a logical layout.
+
+Customization: Users will have the ability to customize their experience, including font sizes, color contrasts, and other visual elements to help users with visual disabilities.
+
+Disabilities: The platform should be compatible with screen readers and other assistive technologies used by individuals with disabilities, including alt text for images and audio instructions.
+
+Languages: To make the app available for all differing language speakers, offer multiple language options.
